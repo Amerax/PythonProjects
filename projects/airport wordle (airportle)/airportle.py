@@ -23,8 +23,6 @@ def wordle_player(code):
     guessed_code = ['_', '_', '_']
     attempts = 0
 
-    print(code)
-
     while True:
 
         if attempts == 6:
@@ -66,4 +64,5 @@ def start_game(file_name):
         else:
             print('Ok!')
             continue
+
 start_game('airports.csv')
