@@ -1,1 +1,1 @@
-# JavaScriptStuff
+This is where i save a bunch of my python, csv, and txt files that used for my python projects. 
