@@ -1,0 +1,3 @@
+Optimized sub optimal code.
+
+basically just version one but fixed the variables that were not being used and what not. 
